@@ -1,3 +1,7 @@
+## This fork
+
+This is just a real world test for the upgraded version of [lunatic-python](https://github.com/albanD/lunatic-python) that now supports [Torch](https://github.com/torch/torch7).
+This has been done very close to the original `lua` version hence some weird parts. It would be possible to work a lot more in python space.
 
 # char-rnn
 
